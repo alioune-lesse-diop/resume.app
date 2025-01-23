@@ -1,0 +1,205 @@
+{
+  "main": {
+    "name": "Alioune Lesse DIOP",
+    "occupation": "développeur Full-Stack",
+    "employer": "Munisys",
+    "jobDescription": "Ingénieur consultant",
+    "hobbies": "les nouveautés technologiques, les procédés de 'computer vision', et le concept des objets connectés",
+    "image": "profilepic.jpg",
+    "bio": "Né à Dakar au Sénégal, je suis parti étudier au Maroc où je travaille maintenant en tant qu'ingénieur consultant pour Munisys. Titulaire d’un Master 2 spécialisé en système d’information distribué, je dispose d'une grande expérience en Java, Spring, Spring Boot, Hibernate, JPA, React, CSS, et aussi de bonnes connaissances en Python et C#. Je suis passionné par la technologie et tout ce qui est automatisation, et aussi le développement aussi bien backend que frontend. En dehors du travail, je suis un passionné de voitures de sport, de la nature, de football, ... et de films de science-fiction à couper le souffle, comme tout bon geek 😊.",
+    "contactmessage": "N’hésiter pas à me contacter.",
+    "email": "lessediop@gmail.com",
+    "phone": "+212 681 27 09 89",
+    "address": {
+      "street": "Roches noires",
+      "city": "Casablanca",
+      "state": "Maroc",
+      "zip": "20303"
+    },
+    "website": "https://www.diopsoft.com/",
+    "resumedownload_": "https://www.diopsoft.com/DIOP_CV.pdf",
+    "resumedownload": "./DIOP_CV.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/aliounelesse.diop/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alioune-lesse-diop-179b3a54/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/alioune-lesse-diop",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Université de NANCY2",
+        "degree": "Master 2 en MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)",
+        "graduated": "Juillet 2008",
+        "description": "ASP.NET, Spring, Hibernate, Struts, JSF, REST services"
+      },
+      {
+        "school": "Institut supérieur du Génie Appliqué (IGA de Rabat)",
+        "degree": "Diplôme de cadre supérieur en Génie Informatique",
+        "graduated": "Juillet 2007",
+        "description": "VB, Développement orienté objet, C++, Oracle, MySQL, Postgres, MSSQL, 3ds max"
+      },
+      {
+        "school": "Ecole Supérieure Polytechnique de Dakar (ESP)",
+        "degree": "Diplôme de cadre supérieur en Génie Informatique",
+        "graduated": "Juillet 2005",
+        "description": "VB, Développement orienté objet, C++, Oracle, MySQL, Postgresql, MSSQL, 3ds max"
+      },
+      {
+        "school": "Cours Sainte Marie de Hann (Sénégal)",
+        "degree": "Baccalauréat science expérimentales",
+        "graduated": "Juillet 2003",
+        "description": "Architecture des ordinateurs, Administration des systemes d'exploitation Windows et Linux, Algorithm, Assembleur, Initialisation à l'electronique digitale et numérique"
+      }
+    ],
+    "work": [
+      {
+        "company": "Munisys",
+        "title": "Ingénieur consultant",
+        "years": "Juin 2020 - Présent",
+        "description": "Ayant déjà travaillé pour le compte de mon ancien employeur avec Munisys auparavant dans des projets de grandes envergures, ces derniers m'ont recruté pour mon expertise dans le domaine de la conception et du développement afin d'accompagner l'équipe SI dans le développement du CRM interne avec React et Spring boot, et aussi les clients lors de certaines intégrations (logiciel, API, DevOps)."
+      },
+      {
+        "company": "SPECKEYE (ex-MIAKKA)",
+        "title": "Ingénieur étude et développement",
+        "years": "Janvier 2017 - Avril 2020",
+        "description": "En tant qu'ingénieur développeur full-stack, je participais aussi à toutes les phases des projets (spécification avec le client, conception, planification, développement, recette, fixes et déploiement) en suivant la méthode AGILE. Les technologies utilisées étaient Java, Hibernate, Spring REST, React, Python, openCV, parfois embarquées sur Raspberry pi."
+      },
+      {
+        "company": "MIAKKA",
+        "title": "Ingénieur étude et développement",
+        "years": "Mai 2013 - Décembre 2016",
+        "description": "Travaillant dans un cadre quasi autonome, j'ai appris à prendre en charge des projets de bout en bout (spécification avec le client, conception, planification, développement, recette, fixes et déploiement), en suivant la méthode AGILE. J'ai aussi commencé à approfondir mes connaissances concernant le domaine de l'OCR et de la 'computer vision'. Les technologies utilisées étaient Java, Hibernate, Spring REST, React, Python, openCV, parfois embarquées sur Raspberry pi."
+      },
+      {
+        "company": "FEDASO",
+        "title": "Ingénieur étude et développement",
+        "years": "Juin 2010 - Avril 2013",
+        "description": "La mission consistait à la conception et développement d'applications JEE avec Spring, Hibernate, Flex, et aussi C#, ASP.NET. Participant aussi à des projets de dématérialisation, j'ai commencé à développer une certaine passion pour l'OCR."
+      },
+      {
+        "company": "ATHIC ITO Maroc",
+        "title": "Ingénieur étude et développement",
+        "years": "Mars 2009 - Mai 2010",
+        "description": "La mission consistait à la conception et développement d'applications JEE avec Spring, Hibernate, JSF, et aussi C#, ASP.NET."
+      },
+      {
+        "company": "ATHIC ITO Maroc",
+        "title": "Stage pré-embauche (Ingénieur étude et développement)",
+        "years": "Février 2009 - 1 mois ",
+        "description": "Ma mission lors de ce stage fut de mettre en place un environnement d'intégration continue, avec Hudson, Maven, Sonar, et Redmine."
+      },
+      {
+        "company": "SAGMA",
+        "title": "Stage de fin d'étude",
+        "years": "Août 2008 - Janvier 2009",
+        "description": "Analyse, conception et réalisation d'une application client web léger gérant le métier de l’administration des fonds de travail « AFT » sous une base de données MySQL, en utilisant la technologie JEE et les Framework STRUTS pour la couche présentation et Spring Hibernate pour la couche métier et persistance."
+      }
+    ],
+    "skillmessage": "Passionné de technologie, j’adore en découvrir de nouvelles et innovantes. Voici ci-dessous, celles qui me sont bien familières :",
+    "skills": [
+      {
+        "name": "Java",
+        "level": "95%"
+      },
+      {
+        "name": "Spring",
+        "level": "98%"
+      },
+      {
+        "name": "Hibernate",
+        "level": "98%"
+      },
+      {
+        "name": "Android",
+        "level": "90%"
+      },
+      {
+        "name": "IOS",
+        "level": "60%"
+      },
+      {
+        "name": "C#",
+        "level": "90%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "OpenCV",
+        "level": "70%"
+      },
+      {
+        "name": "MQTT",
+        "level": "80%"
+      },
+      {
+        "name": "Base de données relationnelles",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "IDSCANNER",
+        "category": "Site démo permettant de capturer un document depuis le mobile (avec la détection des contours pour certains documents), puis d'extraire les informations. La version sur ordinateur offre aussi la possibilité de scanner depuis le mobile et visualiser le résultat sur l'ordinateur.",
+        "image": "idscanner.gif",
+        "url": "https://idscanner.diopsoft.com/"
+      },
+      {
+        "title": "QuickUtils",
+        "category": "QuickUtils est un site avec des outils pratiques et efficaces. Il regroupe une série de fonctionnalités que j'ai créées pour répondre à des besoins quotidiens en ligne, tout en restant simple et rapide à utiliser. Conversion PDF ↔ Image, Upload mobile, et ce n’est que le début ! QuickUtils sera régulièrement mis à jour avec de nouveaux outils pratiques pour vous faire gagner du temps et rendre vos tâches numériques plus simples. N’hésitez pas à explorer, et restez à l’affût des nouvelles fonctionnalités !",
+        "image": "QuickUtils.jpg",
+        "url": "https://alioune-lesse-diop.github.io/quickutils.app/"
+      },
+      {
+        "title": "Coming soon",
+        "category": "Veuillez visiter régulièrement le site, d'autres réalisations sont en cours de développement ...",
+        "image": "coming-soon.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
