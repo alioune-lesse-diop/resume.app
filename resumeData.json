@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Alioune Lesse DIOP",
-    "occupation": "développeur Full-Stack",
+    "occupation": "développeur Full-Stack (et aussi Techlead)",
     "employer": "Munisys",
     "jobDescription": "Ingénieur consultant",
-    "hobbies": "les nouveautés technologiques, les procédés de 'computer vision', et le concept des objets connectés",
+    "hobbies": "les nouveautés technologiques, le 'computer vision', les objets connectés (IoT), ainsi que l'intelligence artificielle.",
     "image": "profilepic.jpg",
     "bio": "Né à Dakar au Sénégal, je suis parti étudier au Maroc où je travaille maintenant en tant qu'ingénieur consultant pour Munisys. Titulaire d’un Master 2 spécialisé en système d’information distribué, je dispose d'une grande expérience en Java, Spring, Spring Boot, Hibernate, JPA, React, CSS, et aussi de bonnes connaissances en Python et C#. Je suis passionné par la technologie et tout ce qui est automatisation, et aussi le développement aussi bien backend que frontend. En dehors du travail, je suis un passionné de voitures de sport, de la nature, de football, ... et de films de science-fiction à couper le souffle, comme tout bon geek 😊.",
     "contactmessage": "N’hésiter pas à me contacter.",
@@ -69,7 +69,7 @@
         "company": "Munisys",
         "title": "Ingénieur consultant",
         "years": "Juin 2020 - Présent",
-        "description": "Ayant déjà travaillé pour le compte de mon ancien employeur avec Munisys auparavant dans des projets de grandes envergures, ces derniers m'ont recruté pour mon expertise dans le domaine de la conception et du développement afin d'accompagner l'équipe SI dans le développement du CRM interne avec React et Spring boot, et aussi les clients lors de certaines intégrations (logiciel, API, DevOps)."
+        "description": "Ayant déjà travaillé pour le compte de mon ancien employeur avec Munisys auparavant dans des projets de grandes envergures, ces derniers m'ont recruté pour mon expertise dans le domaine de la conception et du développement afin d'accompagner l'équipe SI dans le développement du ERP interne avec React et Spring boot, et ainsi que d'autres applications ou outils visant à optimiser les processus internes."
       },
       {
         "company": "SPECKEYE (ex-MIAKKA)",
@@ -119,7 +119,7 @@
         "level": "98%"
       },
       {
-        "name": "Hibernate",
+        "name": "Hibernate / JPA",
         "level": "98%"
       },
       {
@@ -151,12 +151,16 @@
         "level": "80%"
       },
       {
-        "name": "Base de données relationnelles",
+        "name": "Base de données",
         "level": "90%"
       },
       {
         "name": "ReactJs",
         "level": "95%"
+      },
+      {
+        "name": "React native",
+        "level": "85%"
       },
       {
         "name": "CSS",
