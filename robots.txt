@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alioune-lesse-diop.github.io/resume.app/sitemap.xml

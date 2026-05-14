@@ -200,6 +200,11 @@
       }
     ]
   },
+  "seo": {
+    "siteUrl": "https://alioune-lesse-diop.github.io/resume.app",
+    "ogImagePath": "/images/profilepic.jpg",
+    "twitterSite": ""
+  },
   "testimonials": {
     "testimonials": [
       {
